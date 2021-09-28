@@ -1,0 +1,13 @@
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/bin/Debug/netcoreapp3.1/Bootcamp2.0.deps.json
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/bin/Debug/netcoreapp3.1/Bootcamp2.0.runtimeconfig.json
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/bin/Debug/netcoreapp3.1/Bootcamp2.0.runtimeconfig.dev.json
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/bin/Debug/netcoreapp3.1/Bootcamp2.0.dll
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/bin/Debug/netcoreapp3.1/Bootcamp2.0.pdb
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/obj/Debug/netcoreapp3.1/Bootcamp2.0.csproj.AssemblyReference.cache
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/obj/Debug/netcoreapp3.1/Bootcamp2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/obj/Debug/netcoreapp3.1/Bootcamp2.0.AssemblyInfoInputs.cache
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/obj/Debug/netcoreapp3.1/Bootcamp2.0.AssemblyInfo.cs
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/obj/Debug/netcoreapp3.1/Bootcamp2.0.csproj.CoreCompileInputs.cache
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/obj/Debug/netcoreapp3.1/Bootcamp2.0.dll
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/obj/Debug/netcoreapp3.1/Bootcamp2.0.pdb
+/Users/jorgepuerta/Projects/Bootcamp2.0_manuel/Bootcamp2.0/obj/Debug/netcoreapp3.1/Bootcamp2.0.genruntimeconfig.cache

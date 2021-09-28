@@ -1,6 +1,7 @@
-﻿namespace Bootcamp2._0
+﻿namespace Bootcamp2._0.Base
 {
     using System;
+    using Bootcamp2._0.Interfaces;
 
     public abstract class BaseBird : IAnimal
     {
@@ -13,7 +14,7 @@
 
         public void DoFeed()
         {
-            Console.WriteLine("Bird: " + Name + " is fedding.");
+            Console.WriteLine("Bird: " + Name + " is feeding.");
         }
 
         public void DoRun()

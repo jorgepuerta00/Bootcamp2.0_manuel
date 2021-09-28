@@ -1,4 +1,4 @@
-﻿namespace Bootcamp2._0
+﻿namespace Bootcamp2._0.Interfaces
 {
     public interface IAnimal
     {
